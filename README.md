@@ -3,8 +3,11 @@
 [Dashboard link](https://public.tableau.com/views/Book2_17291882283200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Table of Contents
 [1. Project Overview](#project-overview)
+
 [2. Dataset](#dataset)
+
 [3. Installation](#installation)
+
 [4. Usage](#usage)
    - Data Gathering
    - Data Exploration and Assessment
@@ -19,8 +22,11 @@
    - Bike Rides by Hour   
  
 [6. Dashboard](#dashboard)
+
 [7. Conclusion](#conclusion)
+
 [8. Resources](#resources)
+
 [9. Contact](#contact)
 
 ### Project Overview
